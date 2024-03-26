@@ -15,7 +15,7 @@ This project involves the creation of a water meter reading system using YOLOv8 
 ## Project Overview
 The water meter reading system is designed to automate the process of collecting and storing water meter readings. The system utilizes a Raspberry Pi to capture images of the water meter, which are then processed using a YOLOv8 model to detect and read the meter values. The readings are saved in a JSON file and later converted to a CSV file for further analysis.
 
-![System Overview](images/system_overview.png)
+![System Overview](https://github.com/gauravdesale8/water_meter_reading/blob/main/results/result.jpg)
 
 ## Hardware Requirements
 - Raspberry Pi (any version with a camera module)
