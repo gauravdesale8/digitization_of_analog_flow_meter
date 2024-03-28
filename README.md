@@ -1,4 +1,4 @@
-# Water Meter Reading System
+# Digitization of Analog Flow Meter
 
 This project involves the creation of a water meter reading system using YOLOv8 for training, a Raspberry Pi for image capture, and a data processing pipeline that saves readings in a JSON file, which are then converted to a CSV file.
 
